@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc53ebcd764d49b290f3cb7dee7ff9c5, type: 3}
+  m_Name: AppleLootData
+  m_EditorClassIdentifier: 
+  LootSpawnId: 0
+  Prefab: {fileID: 8206984376968803273, guid: 03df51c9095b50f4db2d18403cab2950, type: 3}
