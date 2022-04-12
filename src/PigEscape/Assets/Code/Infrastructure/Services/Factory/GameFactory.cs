@@ -69,7 +69,7 @@ namespace Code.Infrastructure.Services.Factory
 
       _diContainer.InjectGameObject(spawner);
 
-      SpawnPoint spawnPoint = prefab.GetComponent<SpawnPoint>();
+      SpawnPoint spawnPoint = spawner.GetComponent<SpawnPoint>();
       spawnPoint.LootSpawnId = lootSpawnId;
     }
 
@@ -133,7 +133,7 @@ namespace Code.Infrastructure.Services.Factory
 
       _diContainer.InjectGameObject(spawner);
 
-      EnemySpawnPoint spawnPoint = prefab.GetComponent<EnemySpawnPoint>();
+      EnemySpawnPoint spawnPoint = spawner.GetComponent<EnemySpawnPoint>();
       spawnPoint.EnemySpawnId = enemySpawnId;
     }
   }

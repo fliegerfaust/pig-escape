@@ -13,20 +13,20 @@ MonoBehaviour:
   m_Name: LevelData
   m_EditorClassIdentifier: 
   LevelKey: Main
-  PlayerInitialPosition: {x: -5.65, y: -0.26, z: 0}
+  PlayerInitialPosition: {x: -5.61, y: -0.1, z: 0}
   LootSpawners:
   - LootSpawnId: 0
-    Position: {x: 10.16, y: 3.28, z: 0}
-  - LootSpawnId: 1
-    Position: {x: 12.2, y: 0.62, z: 0}
-  - LootSpawnId: 1
-    Position: {x: -1.61, y: -3.29, z: 0}
-  - LootSpawnId: 1
-    Position: {x: 11.57, y: -3.47, z: 0}
+    Position: {x: 7.03, y: -3.38, z: 0}
   - LootSpawnId: 0
-    Position: {x: 1.36, y: 2.68, z: 0}
+    Position: {x: 5.46, y: 0.45, z: 0}
+  - LootSpawnId: 0
+    Position: {x: -2.8, y: 3.47, z: 0}
+  - LootSpawnId: 1
+    Position: {x: 12.06, y: 1.75, z: 0}
+  - LootSpawnId: 1
+    Position: {x: 10.19, y: 3.32, z: 0}
   EnemySpawners:
   - EnemySpawnId: 1
-    Position: {x: 7.32, y: -2.56, z: 0}
+    Position: {x: 10.99, y: 1.72, z: 0}
   - EnemySpawnId: 0
-    Position: {x: 9.99, y: 1.61, z: 0}
+    Position: {x: 3.93, y: -2.37, z: 0}
